@@ -1,0 +1,29 @@
+body {
+	background-image: url("../img/background.jpg");
+}	
+
+img {
+	height: 200px;
+	width: 200px;
+	padding: 10px 10px 10px 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 40px;
+	text-align: center;
+	color: #262626;
+}
+p{
+	padding-left:120px;
+	line-height: 15px;
+	color: #262626;
+}
+
+span{
+	font-weight: bold;
+}
+	
